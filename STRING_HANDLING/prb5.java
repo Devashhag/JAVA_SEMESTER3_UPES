@@ -3,6 +3,7 @@ package STRING_HANDLING;
 public class prb5 {
     public static void main(String[] args) {
 
+// how wil i do these things in java lets see what happens next
 
     }
 }
