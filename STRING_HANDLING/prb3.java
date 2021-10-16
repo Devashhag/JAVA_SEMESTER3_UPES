@@ -4,11 +4,29 @@ public class prb3 {
     public static void main(String[] args) {
         String s="pwsxtpbcderxrtxgt";
         System.out.println("the original string is "+s);
-        System.out.println(Exchange(s));
+        String s1=s.substring(1,2)+s.substring(0,1)+s.substring(2);
+        System.out.println(s1);
+
     }
-    public static String Exchange(String s){
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+//  // System.out.println(Exchange(s));
+
+
+/* public static String Exchange(String s){
 
         return s.substring(1,2)+s.substring(0,1)+s.substring(2);
 
-    }
-}
+    } */

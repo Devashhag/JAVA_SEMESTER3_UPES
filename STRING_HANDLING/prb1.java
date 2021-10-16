@@ -1,7 +1,6 @@
 package STRING_HANDLING;
 
-import java.io.DataInputStream;
-import java.util.Scanner;
+
 
 //1.Write program to remove 2nd letter.
 // Let the input string is pwsxtpbcderxrtxgt then output is pwxtpbcderxrtxgt.
@@ -10,11 +9,11 @@ public class prb1 {
       String str="pwsxtpbcderxrtxgt";
 
         System.out.println("the original string is "+str);
-       System.out.println("new string is "+ Remove(str,2));
+
+       String s= str.substring(0,2)+ str.substring(2+1);
+        System.out.println(s);
     }
-    public static String Remove(String str, int p){
-        return str.substring(0,p)+ str.substring(p+1);
-    }
+
 }
 /*  StringBuffer a;
         String b;
@@ -29,3 +28,8 @@ a.deleteCharAt(2);
         }catch (Exception e){
 
         }*/
+
+//System.out.println("new string is "+ Remove(str,2));
+/* public static String Remove(String str, int p){
+        return str.substring(0,p)+ str.substring(p+1);
+    }*/
