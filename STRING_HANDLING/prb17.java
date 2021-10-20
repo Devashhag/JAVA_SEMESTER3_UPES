@@ -6,18 +6,8 @@ import java.util.Scanner;
 // neighbor of 1st x. Input imgpxugxutkl output imgpxpgxutkl. Input bcxdefxgh output bcxdefxch.
 public class prb17 {
     public static void main(String[] args) {
-      Scanner sc = new Scanner(System.in);
-      String a=sc.next();
-      int firstx=a.indexOf("x");
-      String b=a.substring(firstx+1);
-        System.out.println(b);
-        int secondx=b.indexOf('x')+1;
-       // char
-    }
-}
-/*  Scanner input = new Scanner(System.in);
-        String a;
-
+      Scanner input = new Scanner(System.in);
+      String a;
         try {
             System.out.println("Enter string: ");
             a = input.next();
@@ -41,4 +31,29 @@ public class prb17 {
             System.out.println("Error encountered: " + e.getMessage());
         }
 
-        input.close();*/
+        input.close();
+
+    }
+}
+/*
+
+
+
+
+////
+ /*Scanner sc = new Scanner(System.in);
+      String a;
+      a=sc.next(); //if input is imgpxugxutkl
+      int firstx=a.indexOf("x");
+      String b=a.substring(firstx+1);//ugxutkl
+        System.out.println(b);
+        int secondx=b.indexOf('x')+1;
+        System.out.println(secondx);
+        char a1=a.charAt(secondx+1); //x of second one
+        System.out.println(a1);
+        int first_occ=a.indexOf(a1); //4 will print
+        System.out.println(first_occ);
+        String c=String.valueOf(a.charAt(firstx-1)); // will print p
+        System.out.println(c);
+        String finalStr=a.substring(0,first_occ+1)+c+a.substring(first_occ+2);
+        System.out.println(finalStr);*/

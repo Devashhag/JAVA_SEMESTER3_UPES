@@ -3,8 +3,8 @@ package String_Buffer;
 public class prb1 {
     public static void main(String[] args) {
         StringBuffer sb = new StringBuffer("artxuxtxxp");
-        int index = sb.indexOf("x");
-        sb.setCharAt(index,'y');
+        int a = sb.indexOf("x");
+        sb.setCharAt(a,'y');
         System.out.println(sb);
 
     }

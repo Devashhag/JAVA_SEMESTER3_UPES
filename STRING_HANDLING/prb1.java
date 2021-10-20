@@ -1,7 +1,5 @@
 package STRING_HANDLING;
 
-
-
 //1.Write program to remove 2nd letter.
 // Let the input string is pwsxtpbcderxrtxgt then output is pwxtpbcderxrtxgt.
 public class prb1 {
