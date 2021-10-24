@@ -3,10 +3,9 @@ package String_Buffer;
 public class prb2 {
     public static void main(String[] args) {
         StringBuffer sb = new StringBuffer("artxuxtxxp");
-        sb.reverse();
-
-        int index = sb.indexOf("x");
-        sb.setCharAt(index,'y');
+        sb.reverse(); //first reverse in order to make it as the last x as first x
+        int a = sb.indexOf("x");
+        sb.setCharAt(a,'y');
         sb.reverse();
         System.out.println(sb);
     }

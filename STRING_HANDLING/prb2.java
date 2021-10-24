@@ -17,13 +17,3 @@ public class prb2 {
 
 
 
-
-
-
-
-
-
-// System.out.println("new string is "+Add(str));
-/*public static String Add(String str){
-        return  str.substring(0,1)+str;
-    }*/

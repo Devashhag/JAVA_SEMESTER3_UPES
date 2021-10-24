@@ -10,15 +10,3 @@ String s1= s.substring(0,4)+s.substring(10,11)+s.substring(5,10)+s.substring(4,5
     }
 
     }
-
-
-
-
-    //  System.out.println("the new string is "+Exchange(s));
-
-
-
-/* public static String Exchange(String s) {
-        return s.substring(0,4)+s.substring(10,11)+s.substring(5,10)+s.substring(4,5)+s.substring(10);
-
-    }*/

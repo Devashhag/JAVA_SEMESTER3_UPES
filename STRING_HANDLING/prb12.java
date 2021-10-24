@@ -17,22 +17,5 @@ public class prb12 {
 
 
 
-
     }
 }
-/* String s1 = "pwsxtpbcderxrtxgt";
-        int a = s1.indexOf("x");
-
-        String str = s1.substring(0, a) + s1.substring(a+ 1);
-      //  String s2 = s1.substring(a + 1);
-       // /from p to s and then from t to last
-        //also this is used for removal of first x so that next string used up as first one
-        // System.out.println(str);
-
-        int b = str.indexOf('x') + 1;
-
-        String beforex = s1.substring(0, a);
-        String btwx = s1.substring(a + 1, b);
-        String finalSt = btwx + "x" + beforex + "x" + s1.substring(b + 1);
-        System.out.println(finalSt);
-*/

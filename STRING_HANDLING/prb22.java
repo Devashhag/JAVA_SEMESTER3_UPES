@@ -5,11 +5,13 @@ public class prb22 {
         String s ="ram Prasad dey";
         System.out.println(s.trim());
         int firstspace=s.indexOf(' ');
-        System.out.println(firstspace);
+        System.out.println(firstspace); //3
         String str=s.substring(firstspace+1);
+
         int secondspace=str.indexOf(' ');
-        System.out.println(secondspace);
+        System.out.println(secondspace); //6
+
         String finalstring=str.substring(0,secondspace);
-        System.out.println(finalstring);
+        System.out.println(finalstring);//prasad
     }
 }

@@ -4,29 +4,23 @@ import java.util.Scanner;
 
 public class prb18 {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-        String a;
+        System.out.println("enter the string"); //if input is patkgfmpkst
 
-        try {
-            System.out.println("Enter string: ");
-            a = input.next();
+        Scanner sc= new Scanner(System.in);
+        String a=sc.next();
+        char b = a.charAt(0);
 
-            char zeroth = a.charAt(0);
-            String b = a.substring(1);
-            int secondZeroth = b.indexOf(zeroth) + 2;
+        String c = a.substring(1);
 
-            char x = a.charAt(secondZeroth - 1);
-            char y = a.charAt(secondZeroth + 1);
+        char d = c.charAt(c.indexOf(b)-1);
+      //  System.out.println(d); //m
 
-            String temp = a.substring(a.indexOf(y) + 1);
+        char e = c.charAt(c.indexOf(b)+1);
+        //System.out.println(e);//k
 
-            String finalString = a.substring(a.indexOf(y + 1), temp.indexOf(x) + 1);
-
-            System.out.println("Final string is: " + finalString);
-        } catch (Exception e) {
-            System.out.println("Error encountered: " + e.getMessage());
-        }
-
-        input.close();
+        String f = a.substring(a.indexOf(e));
+        //System.out.println(f);//kgfmpkst
+        System.out.println("final string is");
+        System.out.println(f.substring(0,f.indexOf(d)+1)); //kgfm
     }
 }

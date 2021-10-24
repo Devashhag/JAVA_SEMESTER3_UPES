@@ -11,22 +11,3 @@ public class prb3 {
 
 }
 
-
-
-
-
-
-
-
-
-
-
-
-//  // System.out.println(Exchange(s));
-
-
-/* public static String Exchange(String s){
-
-        return s.substring(1,2)+s.substring(0,1)+s.substring(2);
-
-    } */

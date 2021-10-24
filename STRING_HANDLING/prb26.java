@@ -9,12 +9,12 @@ public class prb26 {
 
         String str2=s.substring(firstspace+1);
         int secondspace=str2.indexOf(' ')+firstspace+1;
-        System.out.println(str1);
-        System.out.println(secondspace);
-        System.out.println(str2);
+        System.out.println(str1); //m
+        System.out.println(secondspace);//10
+        System.out.println(str2);//prasad dey
 
         String str3=String.valueOf(s.charAt(secondspace-1));
-        System.out.println(str3);
+        System.out.println(str3); //d
 
 
         String finalstring=s.substring(0,firstspace-1)+str3+s.substring(firstspace,secondspace-1)+str1+s.substring(secondspace);
