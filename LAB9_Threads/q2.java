@@ -8,7 +8,7 @@ class Even extends Thread{
         this.l=l;
     }
     public void run(){
-        synchronized(l){
+        synchronized (l){//synchronized block
             System.out.println("the even nos are ");
             for(int i =0;i<=20;i+=2){
                 System.out.println("\n"+i);
@@ -28,7 +28,7 @@ class Odd extends  Thread{
         this.l=l;
     }
     public void run(){
-        synchronized (l){
+        synchronized (l){//synchronized block
             System.out.println("odd nos are ");
             for (int i =1;i<=20;i+=2){
                 System.out.println("\n"+i);
@@ -45,7 +45,7 @@ class Odd extends  Thread{
 //
 public class q2 {
     public static void main(String[] args) {
-        String l ="lock ";
+        String l =" ";
         Even e1 = new Even(l);
         e1.start();
 
