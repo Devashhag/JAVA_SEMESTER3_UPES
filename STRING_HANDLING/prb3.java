@@ -1,5 +1,6 @@
 package STRING_HANDLING;
 //3.Write program to exchange first two letters. In above case wpsxtpbcderxrtxgt.
+//CODE BY DEVASHISH AGARWAL 500082411
 public class prb3 {
     public static void main(String[] args) {
         String s="pwsxtpbcderxrtxgt";
@@ -10,4 +11,4 @@ public class prb3 {
     }
 
 }
-
+//CODE BY DEVASHISH AGARWAL 500082411

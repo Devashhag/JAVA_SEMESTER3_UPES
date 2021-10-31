@@ -1,6 +1,6 @@
 package String_Buffer;
 //4.Replace all x’s by y.
-
+//CODE BY DEVASHISH AGARWAL 500082411
 public class prb4 {
     public static void main(String[] args) {
         StringBuffer sb= new StringBuffer("artxuxtxxp");
@@ -9,3 +9,4 @@ public class prb4 {
 
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

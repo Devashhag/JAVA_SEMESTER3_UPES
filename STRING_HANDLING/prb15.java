@@ -1,6 +1,7 @@
 package STRING_HANDLING;
 //15.Write program, which will delete 1st y immediately after 1st x.
 // If input string is pgyeryuyixaysdyexer then output is pgyeryuyixasdyexer.
+//CODE BY DEVASHISH AGARWAL 500082411
 public class prb15 {
     public static void main(String[] args) {
 String s ="pgyeryuyixaysdyexer";
@@ -23,4 +24,4 @@ int a =s.indexOf("x");
 
     }
 }
-
+//CODE BY DEVASHISH AGARWAL 500082411

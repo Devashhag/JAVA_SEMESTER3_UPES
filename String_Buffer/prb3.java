@@ -1,5 +1,6 @@
 package String_Buffer;
 //3.Replace second x by y.
+//CODE BY DEVASHISH AGARWAL 500082411
 public class prb3 {
     public static void main(String[] args) {
         StringBuffer sb = new StringBuffer("artxuxtxxp");
@@ -19,3 +20,4 @@ sb.setCharAt(b,'y'); //well replace now
         System.out.println(sb);
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

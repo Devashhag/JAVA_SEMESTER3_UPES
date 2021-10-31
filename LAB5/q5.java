@@ -3,6 +3,7 @@
 // Class
 // StackClass contains the main method which is having a switch case for selecting the particular operation of the stack.
 
+////CODE BY DEVASHISH AGARWAL 500082411
 package LAB5;
 import java.util.Scanner;
 
@@ -88,4 +89,4 @@ class StackClass implements  StackInterface{
             }
         }}
 }
-
+//CODE BY DEVASHISH AGARWAL 500082411

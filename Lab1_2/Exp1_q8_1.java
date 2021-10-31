@@ -1,9 +1,10 @@
+//Write a program to create a class Student with data ‘name, city and age’ along with method printData to display the
+//data. Create the two objects s1 ,s2 to declare and access the values.
+
+//CODE BY DEVASHISH AGARWAL 500082411
 package Lab1_2;
 
 public class Exp1_q8_1 {
-
-//Write a program to create a class Student with data ‘name, city and age’ along with method printData to display the
-//data. Create the two objects s1 ,s2 to declare and access the values.
 
     static class Student
     {
@@ -46,3 +47,4 @@ public class Exp1_q8_1 {
     }
 //in s2 the name keeps on updated from kapil to delhi to 23 so name is set to 23 s2 city is not defined s2 age not defined
 }
+//CODE BY DEVASHISH AGARWAL 500082411

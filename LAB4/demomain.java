@@ -1,5 +1,5 @@
 package LAB4;
-//1.Write a Java program to show that private member of a super class cannot be accessed from derived classes.
+//EXAMPLE FROM VIRTUAL LAB FRIDAY 1-3
 class Parent{
     private int x;
     protected int y;

@@ -1,5 +1,6 @@
 package STRING_HANDLING;
 // Exchange last letters of first two words. In above case rad Prasam dey.
+//CODE BY DEVASHISH AGARWAL 500082411
 public class prb26 {
     public static void main(String[] args) {
         String s ="ram Prasad dey";
@@ -21,3 +22,4 @@ public class prb26 {
         System.out.println(finalstring);
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

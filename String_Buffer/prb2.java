@@ -1,5 +1,6 @@
 package String_Buffer;
 //2.Replace last x by y. (do not use loop)
+//CODE BY DEVASHISH AGARWAL 500082411
 public class prb2 {
     public static void main(String[] args) {
         StringBuffer sb = new StringBuffer("artxuxtxxp");
@@ -10,3 +11,4 @@ public class prb2 {
         System.out.println(sb);
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

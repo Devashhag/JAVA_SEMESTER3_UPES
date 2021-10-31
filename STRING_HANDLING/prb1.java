@@ -2,6 +2,7 @@ package STRING_HANDLING;
 
 //1.Write program to remove 2nd letter.
 // Let the input string is pwsxtpbcderxrtxgt then output is pwxtpbcderxrtxgt.
+//CODE BY DEVASHISH AGARWAL 500082411
 public class prb1 {
     public static void main(String[] args) {
       String str="pwsxtpbcderxrtxgt";
@@ -12,7 +13,8 @@ public class prb1 {
         System.out.println(s);
     }
 
-}
+}//CODE BY DEVASHISH AGARWAL 500082411
+//USING STRINF BUFFER METHOD -->
 /*  StringBuffer a;
         String b;
         try {

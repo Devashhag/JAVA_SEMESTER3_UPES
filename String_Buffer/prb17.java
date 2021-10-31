@@ -1,5 +1,6 @@
 package String_Buffer;
 //Interchange first two words. In above case is Ram a good boy
+//CODE BY DEVASHISH AGARWAL 500082411
 public class prb17 {
     public static void main(String[] args) {
         StringBuffer sb= new StringBuffer("Ram is a good boy");
@@ -41,3 +42,4 @@ public class prb17 {
         System.out.println(finalstring);
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

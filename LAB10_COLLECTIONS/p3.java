@@ -3,7 +3,7 @@
 //copy another collection object to HashSet object.
 //delete all entries at one call from HashSet
 //search user defined objects from HashSet
-
+//CODE BY DEVASHISH AGARWAL 500082411
 
 package LAB10_COLLECTIONS;
 import java.util.*;
@@ -82,4 +82,4 @@ class Songs{
         this.name= name;
         this.singer=singer;
     }
-}
+}//CODE BY DEVASHISH AGARWAL 500082411

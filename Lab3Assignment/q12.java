@@ -1,6 +1,7 @@
 package Lab3Assignment;
 //12.Implement a=b/c as a=Comp.divide(b, c), where a, b and c are objects of class Comp.
 //[Hint: a/b is defined as a*b.conjugate()/b.magnitude2()]
+//CODE BY DEVASHISH AGARWAL 500082411
 class Comp1 {
     float real, img;
 
@@ -115,3 +116,4 @@ public class q12{
         a.print1();
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

@@ -1,6 +1,7 @@
 package STRING_HANDLING;
 //6.Write a program, which reads a string and finds string after the first x.
 // Let the input string is pwsxtpbcderxrtxgt then output is tpbcderxrtxgt.
+//CODE BY DEVASHISH AGARWAL 500082411
 public class prb6 {
     public static void main(String[] args) {
 
@@ -16,4 +17,4 @@ public class prb6 {
 
     }
 }
-
+//CODE BY DEVASHISH AGARWAL 500082411

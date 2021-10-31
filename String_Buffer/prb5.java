@@ -1,5 +1,6 @@
 package String_Buffer;
 //5.Find the number of x’s. In above case 4.
+//CODE BY DEVASHISH AGARWAL 500082411
 public class prb5 {
     public static void main(String[] args) {
        StringBuffer sb= new StringBuffer("artxuxtxxp") ;
@@ -14,3 +15,4 @@ public class prb5 {
         System.out.println("x appeared "+a+" times");
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

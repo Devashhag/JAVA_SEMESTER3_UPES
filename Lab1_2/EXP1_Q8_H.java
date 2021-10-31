@@ -1,3 +1,4 @@
+//CODE BY DEVASHISH AGARWAL 500082411
 package Lab1_2;
 
 public class EXP1_Q8_H {
@@ -19,4 +20,4 @@ public class EXP1_Q8_H {
             t=a.getx();System.out.println(t);
         }
     }
-
+//CODE BY DEVASHISH AGARWAL 500082411

@@ -1,6 +1,7 @@
 package Lab3Assignment;
 //Write a JAVA program which contains a function fun()
 // such that fun(x) returns x2 and fun(x,y) returns x2 + y2. (where x and y are integers).
+//CODE BY DEVASHISH AGARWAL 500082411
 public class q3 {
     static int fun(int x){
         return x*x;
@@ -16,3 +17,4 @@ public class q3 {
         System.out.println("for the method containing 2 parameters x and y is "+b );
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

@@ -1,5 +1,6 @@
 package String_Buffer;
 //11.Find last letter of first word.
+//CODE BY DEVASHISH AGARWAL 500082411
 public class prb11 {
     public static void main(String[] args) {
         StringBuffer sb= new StringBuffer("Ram is a good boy");
@@ -12,4 +13,4 @@ public class prb11 {
 
 
     }
-}
+}//CODE BY DEVASHISH AGARWAL 500082411

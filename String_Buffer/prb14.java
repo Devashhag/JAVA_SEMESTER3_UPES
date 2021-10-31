@@ -1,5 +1,6 @@
 package String_Buffer;
 //14.Replace first letter of every word by x. In above case xam xs x xood xoy.
+//CODE BY DEVASHISH AGARWAL 500082411
 public class prb14 {
     public static void main(String[] args) {
         StringBuffer sb= new StringBuffer("Ram is a good boy");
@@ -73,3 +74,4 @@ public class prb14 {
         System.out.println(finallstring);
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

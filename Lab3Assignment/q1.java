@@ -1,7 +1,7 @@
 package Lab3Assignment;
 //Write a JAVA program which contains a function square() such that square(3) returns 9,
 // square(0.2) returns 0.04.
-
+//CODE BY DEVASHISH AGARWAL 500082411
 public class q1 {
     static int square(int x){
         return x*x;
@@ -20,3 +20,4 @@ public class q1 {
         System.out.println(b);
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

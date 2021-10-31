@@ -1,5 +1,6 @@
 package STRING_HANDLING;
 //23.Delete second word. In above case ram dey.
+//CODE BY DEVASHISH AGARWAL 500082411
 public class prb23 {
     public static void main(String[] args) {
         String s ="ram Prasad dey";
@@ -17,3 +18,4 @@ public class prb23 {
         System.out.println(finalstring); //ram dey
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

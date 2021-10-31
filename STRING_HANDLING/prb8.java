@@ -1,7 +1,7 @@
 package STRING_HANDLING;
 
 //8.Write program to output the location of second x. In above case 11.
-
+//CODE BY DEVASHISH AGARWAL 500082411
 public class prb8 {
     public static void main(String[] args) {
         String s1="pwsxtpbcderxrtxgt";
@@ -15,3 +15,4 @@ String s2 = s1.substring(0,a)+s1.substring(a+1);
     }
 
 }
+//CODE BY DEVASHISH AGARWAL 500082411

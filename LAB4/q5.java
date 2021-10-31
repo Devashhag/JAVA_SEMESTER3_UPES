@@ -5,6 +5,7 @@
 // employee. Add an instance variable named department to the manager class. Supply a test
 // program that uses these classes and methods.
 
+//CODE BY DEVASHISH AGARWAL 500082411
 package LAB4;
 class Employee {
     String name;
@@ -53,3 +54,4 @@ public class q5 {
 
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

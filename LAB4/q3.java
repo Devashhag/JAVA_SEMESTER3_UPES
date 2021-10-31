@@ -5,6 +5,7 @@
 // Test this program to calculate the pay of workers. You are expected to use the concept of polymorphism
 // to write this program.
 
+//CODE BY DEVASHISH AGARWAL 500082411
 package LAB4;
 class Worker{
     String name;
@@ -53,4 +54,4 @@ s1.Compay();
 
     }
 }
-
+//CODE BY DEVASHISH AGARWAL 500082411

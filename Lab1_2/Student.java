@@ -1,5 +1,5 @@
 package Lab1_2;
-
+//VIRTUAL LAB
  class Student {
    public String name;
     public String city;

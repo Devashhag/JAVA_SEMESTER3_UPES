@@ -1,6 +1,8 @@
 package String_Buffer;
 import java.io.*;
 import java.lang.*;
+//CODE BY DEVASHISH AGARWAL 500082411
+//FROM VIRTUAL LAB 1-3 JAVA FRIDAY
 
 public class prb00 {
     public static void main(String[] args) {
@@ -53,3 +55,4 @@ public class prb00 {
 
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

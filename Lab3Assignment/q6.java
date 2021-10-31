@@ -1,6 +1,7 @@
 package Lab3Assignment;
 //6.Write a set of overloaded functions power() that returns
 // the Xn where n is integer and X may be int and float.
+//CODE BY DEVASHISH AGARWAL 500082411
 public class q6 {
     static int power(int x,int y){
         int power= (int) Math.pow(x,y);
@@ -18,3 +19,4 @@ public class q6 {
         System.out.println("the float power is "+b);
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

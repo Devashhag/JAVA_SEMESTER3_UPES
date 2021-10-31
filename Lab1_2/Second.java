@@ -1,7 +1,7 @@
 package Lab1_2;
 
 import java.util.Scanner;
-
+//VIRTUAL LAB
 public class Second {
 
     public static void main(String[] args)

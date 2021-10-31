@@ -2,7 +2,7 @@
 //Read all elements from ArrayList by using Iterator.
 //Create duplicate object of an ArrayList instance.
 //Reverse ArrayList content.
-
+//CODE BY DEVASHISH AGARWAL 500082411
 
 package LAB10_COLLECTIONS;
 import java.util.*;
@@ -37,3 +37,4 @@ public class p1 {
 
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

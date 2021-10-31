@@ -1,7 +1,8 @@
 package Lab3Assignment;
 //11.Implement a=b/c as a=b.divide(c), where a, b and c are objects of class Comp.
 //[Hint: a/b is defined as a*b.conjugate()/b.magnitude2()]
-
+//CODE BY DEVASHISH AGARWAL 500082411
+//Q10 ALSO INCLUDED IN THIS PART OF PROGRAM
 import java.util.Scanner;
 
 class Comp {
@@ -129,3 +130,4 @@ class q11 {public static void main(String[] args) {
 }
 
 
+//CODE BY DEVASHISH AGARWAL 500082411

@@ -1,4 +1,5 @@
 //7.Write program to print positional values of digits. Input 21463 output 3, 60, 400, 1000 and 20000.
+//CODE BY DEVASHISH AGARWAL 500082411
 package Lab1_2;
 import java.util.Scanner;
 public class EXP7 {
@@ -16,3 +17,4 @@ x=x/10;
 
     }
 }}
+//CODE BY DEVASHISH AGARWAL 500082411

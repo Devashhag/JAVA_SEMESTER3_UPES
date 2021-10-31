@@ -1,7 +1,7 @@
 package STRING_HANDLING;
 //18. e.g. input patkgfmpkst output kgfm. Input pastgksfsptse output tgks. Input raklfrgmcfd output gmcf. Input ywetyykjhtl output ywet.
 import java.util.Scanner;
-
+//CODE BY DEVASHISH AGARWAL 500082411
 public class prb18 {
     public static void main(String[] args) {
         System.out.println("enter the string"); //if input is patkgfmpkst
@@ -24,3 +24,4 @@ public class prb18 {
         System.out.println(f.substring(0,f.indexOf(d)+1)); //kgfm
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

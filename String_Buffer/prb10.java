@@ -1,5 +1,6 @@
 package String_Buffer;
 //10.Remove all blanks. In above case Ramisagoodboy.
+//CODE BY DEVASHISH AGARWAL 500082411
 public class prb10 {
     public static void main(String[] args) {
         StringBuffer sb= new StringBuffer("Ram is a good boy");
@@ -40,3 +41,4 @@ public class prb10 {
 
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

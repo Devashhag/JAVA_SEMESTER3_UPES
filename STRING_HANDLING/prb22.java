@@ -1,5 +1,6 @@
 package STRING_HANDLING;
 //22.Print second word. In above case Prasad.
+//CODE BY DEVASHISH AGARWAL 500082411
 public class prb22 {
     public static void main(String[] args) {
         String s ="ram Prasad dey";
@@ -15,3 +16,4 @@ public class prb22 {
         System.out.println(finalstring);//prasad
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

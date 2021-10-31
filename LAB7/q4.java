@@ -1,9 +1,9 @@
-package LAB7;
 
+//CODE BY DEVASHISH AGARWAL 500082411
 //.You are given two integers, a and b as input, you have to compute a/b:
 // If a and b are not bit signed integers or if is zero,
 // exception will occur and you have to report it. Read sample Input/Output to know what to report in case of exceptions.
-
+package LAB7;
 import java.util.Scanner;
 
 public class q4 {
@@ -21,3 +21,4 @@ public class q4 {
         }
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

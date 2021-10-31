@@ -1,5 +1,6 @@
 package STRING_HANDLING;
 //11.Write program to delete the string between 1st and 2nd x. In above case pwsxxrtxgt.
+//CODE BY DEVASHISH AGARWAL 500082411
 public class prb11 {
     public static void main(String[] args) {
         String s = "pwsxtpbcderxrtxgt";
@@ -16,7 +17,8 @@ String str= s.substring(0,a+1)+s.substring(b+1);
         System.out.println(str);
 
     }
-}
+}//CODE BY DEVASHISH AGARWAL 500082411
+//OTHER METHOD LOGIC-->
 /*
         String str = s1.substring(0, a) + s1.substring(a + 1);
 //from p to s and then from t to last

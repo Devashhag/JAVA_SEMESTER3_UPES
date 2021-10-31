@@ -3,6 +3,7 @@ package STRING_HANDLING;
 import java.util.Scanner;
 
 //20.Read two string. Print 1 if first string is bigger, 2 if second string is bigger, 0 if both are same.
+//CODE BY DEVASHISH AGARWAL 500082411
 public class prb20 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -22,3 +23,4 @@ else{
         }
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

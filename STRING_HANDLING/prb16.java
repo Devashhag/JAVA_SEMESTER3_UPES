@@ -2,7 +2,7 @@ package STRING_HANDLING;
 //16.Write program to exchange neighbors of first occurrence of left neighbors of first ‘x’.
 // e.g. input abcdefxgh output abcdxfegh.
 // input abfcdefxgh output acfbdefxgh.
-
+//CODE BY DEVASHISH AGARWAL 500082411
 import java.util.Scanner;
 
 public class prb16 {
@@ -25,3 +25,4 @@ String right=a.substring(firstoccleftx+1,firstoccleftx+2); //right occourence of
         System.out.println("The final string is "+c);
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

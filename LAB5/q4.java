@@ -1,6 +1,7 @@
 //4.Write a program to create an Interface having two methods division and modules.
 // Create a class, which overrides these methods.
 
+//CODE BY DEVASHISH AGARWAL 500082411
 package LAB5;
 interface A1{
     void divisions(int a);
@@ -50,33 +51,5 @@ public class q4 {
 
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//CODE BY DEVASHISH AGARWAL 500082411
 

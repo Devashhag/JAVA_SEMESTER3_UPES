@@ -1,5 +1,7 @@
 package STRING_HANDLING;
 //12.Program to exchange the string between 1st and 2nd x, with the string before 1st x. In above case tpbcderxpwsxrtxgt
+
+//CODE BY DEVASHISH AGARWAL 500082411
 public class prb12 {
     public static void main(String[] args) {
 
@@ -16,6 +18,6 @@ public class prb12 {
         System.out.println(finalstring);
 
 
-
+//CODE BY DEVASHISH AGARWAL 500082411
     }
 }

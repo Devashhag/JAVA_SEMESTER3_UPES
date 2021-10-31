@@ -6,6 +6,7 @@
 // method must throw an exception which says "a and b should not be zero"
 // For example, -4 and -5 would result in java.lang.Exception: a and b should not be negative.
 
+//CODE BY DEVASHISH AGARWAL 500082411
 package LAB7;
 
 import java.util.Scanner;
@@ -38,3 +39,4 @@ public class q5 {
     }
 }
 
+//CODE BY DEVASHISH AGARWAL 500082411

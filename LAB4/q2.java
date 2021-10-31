@@ -1,6 +1,6 @@
 //2.Write a program in Java to create a Player class.
 // Inherit the classes Cricket _Player, Football _Player and Hockey_ Player from Player class.
-
+//CODE BY DEVASHISH AGARWAL 500082411
 package LAB4;
 class Player{
     String name;
@@ -59,4 +59,4 @@ h.show();
     }
 }
 
-
+//CODE BY DEVASHISH AGARWAL 500082411

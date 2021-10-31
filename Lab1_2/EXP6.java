@@ -1,5 +1,6 @@
 //6.Write program, which reads two number (assume that both have same number of digits).
 // The program outputs the sum of product of corresponding digits. Input 327 and 539 output 3x5+2x3+7x9=84.
+//CODE BY DEVASHISH AGARWAL 500082411
 package Lab1_2;
 import java.util.Scanner;
 public class EXP6 {
@@ -19,7 +20,5 @@ public class EXP6 {
         System.out.print(sum);
 
     }
-
-
-
 }
+//CODE BY DEVASHISH AGARWAL 500082411

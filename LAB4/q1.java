@@ -1,5 +1,6 @@
 //1.Write a Java program to show that private member
 // of a super class cannot be accessed from derived classes.
+//CODE BY DEVASHISH AGARWAL 500082411
 package LAB4;
 
 class SUPERCLASS{
@@ -26,4 +27,4 @@ public class q1 {
    d.check();
  //d.print_private();    // will throw error private
     }
-}
+}//CODE BY DEVASHISH AGARWAL 500082411

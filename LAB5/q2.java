@@ -1,6 +1,7 @@
 //Write a program to create interface A, in this interface we have two method meth1 and meth2.
 // Implements this interface in another class named MyClass
 
+//CODE BY DEVASHISH AGARWAL 500082411
 package LAB5;
 interface A{
     void meth1();
@@ -23,3 +24,4 @@ public class q2 {
         obj.meth2();
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

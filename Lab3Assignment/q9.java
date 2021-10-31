@@ -1,7 +1,8 @@
 package Lab3Assignment;
 /*
 //9.Implement a=b*c as a=Comp.mul(b, c), where a, b and c are objects of class Comp.
-
+//CODE BY DEVASHISH AGARWAL 500082411
+//10 ALSO INCLUDED IN THIS PART
 import java.util.Scanner;
 
 class Comp {
@@ -114,3 +115,4 @@ class q9 {public static void main(String[] args) {
 }
 
 */
+//CODE BY DEVASHISH AGARWAL 500082411

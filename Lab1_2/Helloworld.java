@@ -1,5 +1,6 @@
 package Lab1_2;
 
+//LAB VIRTUAL
 public class Helloworld {
     public static void main (String[] args){
         System.out.println("Hello");

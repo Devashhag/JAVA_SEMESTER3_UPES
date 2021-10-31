@@ -1,7 +1,7 @@
 package LAB9_Threads;
 //3.Write a program to launch 10 threads.
 // Each thread increments a counter variable. Run the program with synchronization.
-
+//CODE BY DEVASHISH AGARWAL 500082411
 class TenThreads
 {
     static int i = 1;
@@ -51,3 +51,4 @@ public class q3 {
     }
 
 }
+//CODE BY DEVASHISH AGARWAL 500082411

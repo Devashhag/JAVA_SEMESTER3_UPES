@@ -2,6 +2,7 @@
 // Create another class, inside main method prompt user to enter a number if number
 // is less than 500 throw instances of your custom exception class.
 
+//CODE BY DEVASHISH AGARWAL 500082411
 package LAB7;
 
 import java.util.Scanner;
@@ -37,3 +38,4 @@ public class q3 {
         }
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

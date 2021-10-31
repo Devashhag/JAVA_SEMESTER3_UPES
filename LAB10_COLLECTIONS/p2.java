@@ -6,6 +6,8 @@
 //get all keys from the given HashMap
 //get all key-value pair as Entry objects
 
+//CODE BY DEVASHISH AGARWAL 500082411
+
 package LAB10_COLLECTIONS;
 
 import java.util.*;
@@ -67,3 +69,4 @@ public class p2 {
 
     }
 
+//CODE BY DEVASHISH AGARWAL 500082411

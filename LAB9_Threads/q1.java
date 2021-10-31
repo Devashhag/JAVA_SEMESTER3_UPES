@@ -1,6 +1,7 @@
 package LAB9_Threads;
 //1.Write a program to implement the concept of
 // threading by extending Thread Class and Runnable interface.
+//CODE BY DEVASHISH AGARWAL 500082411
 public class q1 {
     public static void main(String[] args) {
         MyThread t1 = new MyThread(); //using extends
@@ -50,3 +51,4 @@ public void run(){
     }
     System.out.println("exiting from the method 2 RUNNABLE ");
 }}
+//CODE BY DEVASHISH AGARWAL 500082411

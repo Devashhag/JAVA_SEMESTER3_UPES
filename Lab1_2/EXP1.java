@@ -1,6 +1,7 @@
 //1.Write program to print the kth digit from last. e.g. input 23617 and k=4 output 3.
-
-package Lab1_2;//Write program to print k th digit from last
+//CODE BY DEVASHISH AGARWAL 500082411
+package Lab1_2;
+//Write program to print k th digit from last
 //eg x=23617 and k=4 output 3.
 
 import java.util.Scanner;
@@ -18,3 +19,4 @@ public class EXP1 {
         input.close();
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

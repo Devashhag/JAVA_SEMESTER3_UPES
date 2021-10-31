@@ -3,6 +3,7 @@
 //) String getMessage() - prints the exception message
 //method to extract method from exception class
 
+//CODE BY DEVASHISH AGARWAL 500082411
 package LAB7;
 class MyCustomException extends Exception  {
 
@@ -30,7 +31,7 @@ catch (Exception e){
 }
 
     }}
-
+//CODE BY DEVASHISH AGARWAL 500082411
 
 
 

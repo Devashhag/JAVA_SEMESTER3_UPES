@@ -1,7 +1,7 @@
 package LAB9_Threads;
 //2.Write a program for generating 2 threads,
 // one for printing even numbers and the other for printing odd numbers.
-
+//CODE BY DEVASHISH AGARWAL 500082411
 class Even extends Thread{
     String l;
     Even (String l){
@@ -42,7 +42,7 @@ class Odd extends  Thread{
     }
 }
 //For a synchronized block, the lock is acquired on the object specified in the parentheses after the synchronized keyword
-//
+
 public class q2 {
     public static void main(String[] args) {
         String l =" ";
@@ -53,4 +53,4 @@ public class q2 {
         o1.start();
     }
 }
-
+//CODE BY DEVASHISH AGARWAL 500082411

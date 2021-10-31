@@ -2,6 +2,7 @@
 // The charges depend on the duration and the type of the call.
 // Write a program using the concept of polymorphism in Java to calculate the charges.
 
+//CODE BY DEVASHISH AGARWAL 500082411
 package LAB4;
 class trunk{
     float duration;
@@ -69,4 +70,4 @@ public class q4 {
         t=l;
         t.calculate_charge();
     }
-}
+}//CODE BY DEVASHISH AGARWAL 500082411

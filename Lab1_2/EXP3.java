@@ -1,4 +1,5 @@
 //3.Write program to print the second digit. e.g. input 23516 the output is 3.
+//CODE BY DEVASHISH AGARWAL 500082411
 package Lab1_2;
 import java.util.Scanner;
 public class EXP3 {
@@ -16,5 +17,4 @@ System.out.print("The second digit is");
         System.out.print(m);
 
     }
-
-}
+}//CODE BY DEVASHISH AGARWAL 500082411

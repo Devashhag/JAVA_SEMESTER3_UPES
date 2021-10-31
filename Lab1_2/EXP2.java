@@ -1,4 +1,5 @@
 //2 .Write a program to print first digit. e.g. input 23516 output 2.
+//CODE BY DEVASHISH AGARWAL 500082411
 package Lab1_2;
 import java.util.Scanner;
 
@@ -17,3 +18,4 @@ int n =0,m=0;
 System.out.print(m);
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

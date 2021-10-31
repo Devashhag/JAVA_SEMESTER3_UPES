@@ -1,10 +1,11 @@
 package LAB9_Threads;
+
 //4.Write a Java program to create five threads with different priorities.
 // Send two threads of the highest priority to sleep state.
 // Check the aliveness of the threads and mark which thread is long lasting
-
-
 // for normal threads that are not set as max priority
+//CODE BY DEVASHISH AGARWAL 500082411
+
 class Mythreadq extends Thread {
     Mythreadq(String name) {
         super(name);
@@ -139,3 +140,4 @@ public class q4 {
     }
 
     }
+//CODE BY DEVASHISH AGARWAL 500082411

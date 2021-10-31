@@ -5,6 +5,8 @@ import java.util.Scanner;
 //21.Read three strings. Print 1 if first string is biggest, 2 if second string is biggest,
 // 3 if 3rd string is biggest, 0 if all are same, -1 if 1st and 2nd string are biggest,
 // -2 if 2nd and 3rd string are biggest, -3 if 1st and 3rd string are biggest.
+
+//CODE BY DEVASHISH AGARWAL 500082411
 public class prb21 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
@@ -42,5 +44,5 @@ public class prb21 {
     }
 
 }
-
+//CODE BY DEVASHISH AGARWAL 500082411
 

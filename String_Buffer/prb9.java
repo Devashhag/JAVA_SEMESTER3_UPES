@@ -1,6 +1,7 @@
 package String_Buffer;
 
 //9.Find the first word of 4 letters. In above case good. Assume such word present at least once.
+//CODE BY DEVASHISH AGARWAL 500082411
 public class prb9 {
     public static void main(String[] args) {
         StringBuffer sb= new StringBuffer("Ram is a good boy");
@@ -67,3 +68,4 @@ public class prb9 {
        }
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

@@ -1,5 +1,5 @@
 package String_Buffer;
-
+//CODE BY DEVASHISH AGARWAL 500082411
 import java.util.Scanner;
 //check palindrome
 public class prb6 {
@@ -20,3 +20,4 @@ public class prb6 {
 
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

@@ -1,5 +1,6 @@
 package STRING_HANDLING;
 //27.Find the location of first ‘a’ in second word. In above case 6.
+//CODE BY DEVASHISH AGARWAL 500082411
 public class prb27 {
     public static void main(String[] args) {
         String s ="ram Prasad dey";
@@ -11,3 +12,4 @@ public class prb27 {
 
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

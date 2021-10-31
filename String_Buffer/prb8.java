@@ -1,5 +1,6 @@
 package String_Buffer;
 //8.Suppose string has words. e.g. Ram is a good boy. Find first and second word.
+//CODE BY DEVASHISH AGARWAL 500082411
 public class prb8 {
     public static void main(String[] args) {
         StringBuffer sb= new StringBuffer("Ram is a good boy");
@@ -19,3 +20,4 @@ public class prb8 {
         System.out.println("second word is "+str2);
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

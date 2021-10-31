@@ -1,6 +1,7 @@
 package Lab3Assignment;
 //Write a set of overloaded functions max() that returns the biggest of two numbers passed to
 // them as arguments. Make versions for int and float.
+//CODE BY DEVASHISH AGARWAL 500082411
 public class q7 {
     static int max(int x, int y){
         if (x>y){
@@ -24,3 +25,4 @@ public class q7 {
         System.out.println("the max of float is "+b);
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

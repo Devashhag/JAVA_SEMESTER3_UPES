@@ -1,5 +1,6 @@
 package STRING_HANDLING;
 //28.Find location of first letter of first word in second word. In above case 5.
+//CODE BY DEVASHISH AGARWAL 500082411
 public class prb28 {
     public static void main(String[] args) {
         String str ="ram prasad dey";
@@ -17,3 +18,4 @@ public class prb28 {
 
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

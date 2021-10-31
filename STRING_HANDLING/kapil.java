@@ -1,6 +1,6 @@
 package STRING_HANDLING;
 
-
+//CODE BY DEVASHISH AGARWAL 500082411
 import java.util.Scanner;
 //the first program on string handling
 public class kapil {

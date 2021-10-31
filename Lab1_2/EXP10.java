@@ -1,4 +1,5 @@
 //10.Define fa. If point p is (x,y) then p.fa() will make it (x+y,2y). (20,4)(24,8)
+//CODE BY DEVASHISH AGARWAL 500082411
 package Lab1_2;
 import java.util.Scanner;
 public class EXP10 {
@@ -19,4 +20,4 @@ public class EXP10 {
             scanner.close();
         }
     }
-
+//CODE BY DEVASHISH AGARWAL 500082411

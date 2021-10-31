@@ -1,5 +1,6 @@
 package STRING_HANDLING;
 //7.Write program to replace first x by y. In above case pwsytpbcderxrtxgt.
+//CODE BY DEVASHISH AGARWAL 500082411
 public class prb7 {
     public static void main(String[] args) {
         String s1="pwsxtpbcderxrtxgt";
@@ -9,3 +10,4 @@ public class prb7 {
 
     }
 }
+//CODE BY DEVASHISH AGARWAL 500082411

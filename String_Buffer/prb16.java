@@ -1,5 +1,6 @@
 package String_Buffer;
 //16.Reverse each word. In above case output is maR si a doog yob.
+//CODE BY DEVASHISH AGARWAL 500082411
 public class prb16 {
     public static void main(String[] args) {
         StringBuffer sb= new StringBuffer("Ram is a good boy");
@@ -39,4 +40,4 @@ public class prb16 {
         String finalstring=str7+" "+str6+" "+str4+" "+str2+" "+str;
         System.out.println(finalstring);
     }
-}
+}//CODE BY DEVASHISH AGARWAL 500082411

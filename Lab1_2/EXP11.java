@@ -1,5 +1,6 @@
 //Define fb. If point p is (x,y) then p.fb() will make it (2x,x+y). (20,4) (40,24)
 //Define fc. If point p is (x,y) then p.fc() will make it (x+y,x*y). (20,4) (24,80)
+//CODE BY DEVASHISH AGARWAL 500082411
 
 package Lab1_2;
 import java.util.Scanner;
@@ -29,4 +30,4 @@ public class EXP11 {
             scanner.close();
         }
     }
-
+//CODE BY DEVASHISH AGARWAL 500082411
